@@ -13,7 +13,7 @@ A full-stack document extraction platform powered by Claude AI.
         ↓
   Validated JSON ✅
 ``` 
-
+ 
 ## Project Structure
 
 ```
