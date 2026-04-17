@@ -6,7 +6,7 @@ A full-stack document extraction platform powered by Claude AI.
 
 ```
 📄 PDF / Image / Text
-        ↓
+        ↓ 
    OCR Pipeline
         ↓
   Claude AI Prompt
