@@ -1,0 +1,6 @@
+.env
+.env.local
+node_modules
+__pycache__
+uploads
+.next
