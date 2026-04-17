@@ -10,7 +10,7 @@ A full-stack document extraction platform powered by Claude AI.
    OCR Pipeline
         ↓
   Claude AI Prompt
-        ↓
+        ↓ 
   Validated JSON ✅
 ``` 
  
