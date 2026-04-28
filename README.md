@@ -2,6 +2,12 @@
 
 > Turn unstructured documents into clean, structured JSON using AI.
 
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/f83d6176-28af-42a0-b90c-f3d6132ab98d" />
+<img width="1440" height="803" alt="image" src="https://github.com/user-attachments/assets/1d66770d-e0ac-47a4-9388-5e3228ff9192" />
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/bc39bd21-fca1-4c9d-b9ff-af2b56c9b0fe" />
+
+
+
 A full-stack document extraction platform powered by Claude AI.
  
 ```
