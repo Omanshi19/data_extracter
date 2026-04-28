@@ -42,7 +42,7 @@ structuraid/
 │   ├── main.py            # API routes + job queue
 │   ├── models.py          # Pydantic schemas
 │   ├── services/
-│   │   ├── extractor.py   # Claude AI + OCR pipeline
+│   │   ├── extractor.py   # Grox AI + OCR pipeline
 │   │   └── storage.py     # In-memory / Redis job store
 │   ├── requirements.txt
 │   └── .env.example
@@ -57,23 +57,7 @@ structuraid/
     └── .env.local.example
 ```
 
-## Quick Start
 
-**Backend:**
-```bash
-cd backend
-cp .env.example .env          # Add ANTHROPIC_API_KEY
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-**Frontend:**
-```bash
-cd frontend
-cp .env.local.example .env.local
-npm install
-npm run dev
-```
 
 ## Supported Document Types
 
@@ -97,3 +81,5 @@ npm run dev
 See `backend/.env.example` and `frontend/.env.local.example`.
 
 The only required variable is `ANTHROPIC_API_KEY` on the backend.
+
+Developed by - Omanshi Kaushal
