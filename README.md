@@ -3,7 +3,7 @@
 > Turn unstructured documents into clean, structured JSON using AI.
 
 A full-stack document extraction platform powered by Claude AI.
-
+ 
 ```
 📄 PDF / Image / Text
         ↓ 
